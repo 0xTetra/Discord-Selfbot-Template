@@ -8,7 +8,7 @@ git clone https://github.com/0xTetra/Discord-Selfbot-Template.git
 cd Discord-Selfbot-Template
 pip3 install -r requirements.txt
 ```
-Now that the files are on your system, and you've installed the dependencies; we can configure it.\
+Now that the files are on your system, and you've installed the dependencies; you can configure it.\
 Configuration is very simple, the only thing you need to start this selfbot is your discord token.\
 This can be found by following these steps:\
 Open developer tools (F12)
