@@ -3,7 +3,7 @@ This file will register the bot, it's prefix, load all of the commands, then run
 To get your discord token, open developer tools (F12)
 Storage -> Local Storage -> CTRL + F5 to refresh -> Scroll to the bottom and copy the "token" value.
 
-If you have any questions regarding this template, contact me via Discord. - 0xTetra#4357
+If you have any questions regarding this template, contact me via Discord. - Tetra#4357
 """
 
 import discord
