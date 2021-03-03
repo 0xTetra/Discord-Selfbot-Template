@@ -11,5 +11,5 @@ If you'd like to import every variable in this file:
 
 import json
 
-token = json.loads(open('config.yml').read())['token']
-prefix = json.loads(open('config.yml').read())['prefix']
+token = json.loads(open('../config.json').read())['token']
+prefix = json.loads(open('../config.json').read())['prefix']
